@@ -1,1 +1,3 @@
-<?php echo "new year"; ?>
+<?php echo "new year"; 
+echo "vinod";
+?>
